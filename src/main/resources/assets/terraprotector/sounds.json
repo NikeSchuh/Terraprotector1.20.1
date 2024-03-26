@@ -1,0 +1,11 @@
+{
+  "resurrection_totem_pop": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "terraprotector:resurrection_totem_pop",
+        "stream": false
+      }
+    ]
+  }
+}
